@@ -1,0 +1,40 @@
+[27-Feb-2025 03:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\HP\Local Sites\clothing\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[27-Feb-2025 04:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\HP\Local Sites\clothing\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[27-Feb-2025 05:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\HP\Local Sites\clothing\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[27-Feb-2025 05:29:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\HP\Local Sites\clothing\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[27-Feb-2025 05:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\HP\Local Sites\clothing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\HP\Local Sites\clothing\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\HP\Local Sites\clothing\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
